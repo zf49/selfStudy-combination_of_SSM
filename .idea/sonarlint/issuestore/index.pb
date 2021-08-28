@@ -1,0 +1,31 @@
+
+C
+web/WEB-INF/web.xml,c/d/cdcc12da5c4054f6995aab32914d7e0243194c05
+F
+Combination_Of_SSM.iml,2/1/21d47d0fc250204850b72db10e9429576506c710
+=
+web/index.jsp,9/f/9f198ed450f32e45b10ec3c2b1406e609b4a96cd
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+W
+'src/main/java/com/kuang/pojo/Books.java,f/b/fb0be3ad90d797b3a402a15d61a49db7edf6e668
+`
+0src/main/java/com/kuang/service/BookService.java,6/b/6bedb7a155ecf4cdff0386b28f1d7535efd589a7
+I
+src/test/java/Mytest.java,6/0/60fc5edf08bd505ed70fa7cb13f07c9a142132d8
+[
++src/main/java/com/kuang/dao/BookMapper.java,5/2/522e52ebf14eaf6e21bd7966e3d15e4f00825a1c
+d
+4src/main/java/com/kuang/service/BookServiceImpl.java,8/b/8b0dbee6340c489863c60dc1c8a59c8e170c635a
+Z
+*src/main/java/com/kuang/dao/BookMapper.xml,4/4/44621ddbcb4dc2756ec51fe9df6b3abb4f7aea3d
+K
+web/WEB-INF/jsp/addbook.jsp,4/7/4789ac2cf39e4602562a3e74fc411dd6f5d82eb3
+P
+ web/WEB-INF/jsp/toupdatebook.jsp,7/6/7691e07cdbb1acd44ea710862494060220b83c20
+K
+web/WEB-INF/jsp/allbook.jsp,e/f/efdf8a1f4ab5c2ca1ae2925928e4a2614b031370
+f
+6src/main/java/com/kuang/controller/BookController.java,3/9/3991519f8add22caeac34269cc2b507f54aa1f10
